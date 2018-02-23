@@ -2,7 +2,7 @@ using System;
 
 namespace PivotTableSamples
 {
-    public class Expenses
+    public class Expense
     {
         public string Category { get; set; }
         public DateTime Date { get; set; }

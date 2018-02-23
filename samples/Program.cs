@@ -9,27 +9,28 @@ namespace PivotTableSamples
 {
     class Program
     {
-        private readonly static List<Expenses> expenses = new List<Expenses>()
-        {
-            new Expenses { Category = "Food", Date = new DateTime(2018, 01, 1), Amount = 100 },
-            new Expenses { Category = "Food", Date = new DateTime(2018, 01, 2), Amount = 12 },
-            new Expenses { Category = "Travel", Date = new DateTime(2018, 01, 3), Amount = 55 },
-            new Expenses { Category = "Travel", Date = new DateTime(2018, 03, 4), Amount = 101 },
-            new Expenses { Category = "Toiletries", Date = new DateTime(2018, 03, 6), Amount = 67 },
-            new Expenses { Category = "Car", Date = new DateTime(2018, 04, 22), Amount = 796 },
-            new Expenses { Category = "Food", Date = new DateTime(2018, 05, 13), Amount = 9 },
-            new Expenses { Category = "Toiletries", Date = new DateTime(2018, 05, 14), Amount = 32 },
-            new Expenses { Category = "Food", Date = new DateTime(2018, 06, 3), Amount = 345 },
-            new Expenses { Category = "Car", Date = new DateTime(2018, 06, 7), Amount = 8 }
-        };
 
         static void Main(string[] args)
         {
-            Test1();
+            Test();
         }
 
-        static void Test1()
+        static void Test()
         {
+            var expenses = new List<Expense>()
+            {
+                new Expense { Category = "Food", Date = new DateTime(2018, 01, 1), Amount = 100 },
+                new Expense { Category = "Food", Date = new DateTime(2018, 01, 2), Amount = 12 },
+                new Expense { Category = "Travel", Date = new DateTime(2018, 01, 3), Amount = 55 },
+                new Expense { Category = "Travel", Date = new DateTime(2018, 03, 4), Amount = 101 },
+                new Expense { Category = "Toiletries", Date = new DateTime(2018, 03, 6), Amount = 67 },
+                new Expense { Category = "Car", Date = new DateTime(2018, 04, 22), Amount = 796 },
+                new Expense { Category = "Food", Date = new DateTime(2018, 05, 13), Amount = 9 },
+                new Expense { Category = "Toiletries", Date = new DateTime(2018, 05, 14), Amount = 32 },
+                new Expense { Category = "Food", Date = new DateTime(2018, 06, 3), Amount = 345 },
+                new Expense { Category = "Car", Date = new DateTime(2018, 06, 7), Amount = 8 }
+            };
+
             var timeStarted = DateTime.Now;
 
             var pivotTable = expenses
