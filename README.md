@@ -2,7 +2,7 @@
 
 It's like using any pivot table in spreadsheets. You can add rows, columns and values to compute.
 
-```
+```csharp
 var expenses = new List<Expenses>()
 	{
 		new Expenses { Category = "Food", Date = new DateTime(2018, 01, 1), Amount = 100 },
@@ -25,7 +25,7 @@ var pivotTable = expenses
 ```
 ## Compute Multiple Fields
 
-```
+```csharp
 var pivotTable = expenses
 	.GetPivotTableBuilder(l => new {
 		SumOfAmount = l.Sum(e => e.Amount),
