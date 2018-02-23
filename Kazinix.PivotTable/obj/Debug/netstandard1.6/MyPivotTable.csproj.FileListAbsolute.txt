@@ -1,8 +1,0 @@
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\bin\Debug\netstandard1.6\MyPivotTable.deps.json
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\bin\Debug\netstandard1.6\MyPivotTable.dll
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\bin\Debug\netstandard1.6\MyPivotTable.pdb
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\obj\Debug\netstandard1.6\MyPivotTable.csproj.CoreCompileInputs.cache
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\obj\Debug\netstandard1.6\MyPivotTable.AssemblyInfoInputs.cache
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\obj\Debug\netstandard1.6\MyPivotTable.AssemblyInfo.cs
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\obj\Debug\netstandard1.6\MyPivotTable.dll
-D:\Dominic Pascasio\Sandbox\MyPivotTable\MyPivotTable\obj\Debug\netstandard1.6\MyPivotTable.pdb
