@@ -39,8 +39,8 @@ namespace PivotTableSamples
                 .Build();
 
             var timeFinished = DateTime.Now;
-            Console.WriteLine($"Started: {timeStarted}, Finsihed: {timeFinished}, Duration: {timeFinished - timeStarted}");
 
+            Console.WriteLine($"Started: {timeStarted}, Finsihed: {timeFinished}, Duration: {timeFinished - timeStarted}");
             Console.WriteLine(JsonConvert.SerializeObject(pivotTable)); 
         }
     }
