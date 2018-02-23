@@ -1,0 +1,7 @@
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\bin\Debug\net452\Kazinix.PivotTable.dll
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\bin\Debug\net452\Kazinix.PivotTable.pdb
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\obj\Debug\net452\Kazinix.PivotTable.csproj.CoreCompileInputs.cache
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\obj\Debug\net452\Kazinix.PivotTable.AssemblyInfoInputs.cache
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\obj\Debug\net452\Kazinix.PivotTable.AssemblyInfo.cs
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\obj\Debug\net452\Kazinix.PivotTable.dll
+D:\Dominic Pascasio\Sandbox\PivotTable\Kazinix.PivotTable\obj\Debug\net452\Kazinix.PivotTable.pdb
