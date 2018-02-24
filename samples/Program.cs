@@ -28,7 +28,8 @@ namespace PivotTableSamples
                 new Expense { Category = "Food", Date = new DateTime(2018, 05, 13), Amount = 9 },
                 new Expense { Category = "Toiletries", Date = new DateTime(2018, 05, 14), Amount = 32 },
                 new Expense { Category = "Food", Date = new DateTime(2018, 06, 3), Amount = 345 },
-                new Expense { Category = "Car", Date = new DateTime(2018, 06, 7), Amount = 8 }
+                new Expense { Category = "Car", Date = new DateTime(2018, 06, 7), Amount = 8 },
+                new Expense { Category = "Car", Date = new DateTime(2018, 06, 7), Amount = 20 }
             };
 
             var timeStarted = DateTime.Now;
