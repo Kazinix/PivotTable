@@ -1,6 +1,6 @@
 ## Description
 
-A [NuGet library](https://www.nuget.org/packages/Kazinix.PivotTable) that you can add in to your project and will extend your `IEnumerable` of objects. 
+A [NuGet library](https://www.nuget.org/packages/Kazinix.PivotTable) that you can add into your project and will extend your `IEnumerable` of objects. 
 
 ## Usage
 
