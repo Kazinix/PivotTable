@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/samples/LinqPaMoreSamples.csproj"
+                "${workspaceFolder}/samples/PivotTableSamples.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
