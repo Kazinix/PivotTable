@@ -1,6 +1,10 @@
+## Description
+
+A [NuGet library](https://www.nuget.org/packages/Kazinix.PivotTable) that you can add in to your project and will extend your `IEnumerable` of objects. 
+
 ## Usage
 
-It's like using any pivot table in spreadsheets. You can add rows, columns and values to compute.
+It's like using any pivot table in spreadsheets. You can set properties as rows, columns and as values to be computed.
 
 ```csharp
 var expenses = new List<Expenses>()
